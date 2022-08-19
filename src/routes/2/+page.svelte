@@ -4,4 +4,4 @@
 </script>
 
 <p>Data is {JSON.stringify(data)}</p>
-<p>Visit <a href="/2">second page</a></p>
+<p>Visit <a href="/">first page</a></p>
